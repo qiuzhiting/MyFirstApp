@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">牛X主页</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>//button_send在整个的项目中代表着按钮，按钮上显示的文字是Send
+    <string name="title_activity_display_message">牛X第二页</string>
+    <string name="title_activity_display_passward">牛X第三页</string>
+    <string name="edit_password">Enter a password</string>
+    <string name="button_sendpassword">SendP</string>
+    <string name="action_search">as</string>
+</resources>
